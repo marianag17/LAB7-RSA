@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "R1YTZFfcnTZG2dXJH8TcL+l9lR6MIbkt7kprb+M1s0r1YgEHVMVAU9YXHSqPv+T3d69CQpOFVtIhnnmW8ieoWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\RSA.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luis\\.nuget\\packages\\ionic.zip\\1.9.1.8\\ionic.zip.1.9.1.8.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Ionic.Zip 1.9.1.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Ionic.Zip",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

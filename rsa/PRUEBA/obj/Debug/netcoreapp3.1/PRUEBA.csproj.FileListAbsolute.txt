@@ -1,0 +1,17 @@
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.exe
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.deps.json
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.runtimeconfig.json
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.runtimeconfig.dev.json
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.dll
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\PRUEBA.pdb
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\RSA.dll
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\RSA.pdb
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.csprojAssemblyReference.cache
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.AssemblyInfoInputs.cache
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.AssemblyInfo.cs
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.csproj.CoreCompileInputs.cache
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.csproj.CopyComplete
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.dll
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.pdb
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\obj\Debug\netcoreapp3.1\PRUEBA.genruntimeconfig.cache
+C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\PRUEBA\bin\Debug\netcoreapp3.1\Ionic.Zip.dll

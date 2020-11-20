@@ -1,0 +1,129 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ionic.Zip/1.9.1.8": {
+        "type": "package",
+        "compile": {
+          "lib/Ionic.Zip.dll": {}
+        },
+        "runtime": {
+          "lib/Ionic.Zip.dll": {}
+        }
+      },
+      "RSA/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Ionic.Zip": "1.9.1.8"
+        },
+        "compile": {
+          "bin/placeholder/RSA.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RSA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ionic.Zip/1.9.1.8": {
+      "sha512": "E77NU0+mXFsiJG/CikkINVD/2ugIgjqRZf41pixpAArRzOUrn/2gCL4G2PBREvRVOy+wU8ZbG/UBLcH4Tkw1gg==",
+      "type": "package",
+      "path": "ionic.zip/1.9.1.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "ionic.zip.1.9.1.8.nupkg.sha512",
+        "ionic.zip.nuspec",
+        "lib/Ionic.Zip.dll",
+        "nuget.bat"
+      ]
+    },
+    "RSA/1.0.0": {
+      "type": "project",
+      "path": "../RSA/RSA.csproj",
+      "msbuildProject": "../RSA/RSA.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "RSA >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\luis\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\PRUEBA\\PRUEBA.csproj",
+      "projectName": "PRUEBA",
+      "projectPath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\PRUEBA\\PRUEBA.csproj",
+      "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\PRUEBA\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\RSA.csproj": {
+              "projectPath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\RSA.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Ionic.Zip 1.9.1.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Ionic.Zip",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
