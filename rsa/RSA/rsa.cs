@@ -25,7 +25,7 @@ namespace RSA
                 bool correcto = false;
                 while (!correcto)
                 {
-                    e = rnd.Next(1, 500);
+                    e = rnd.Next(1, (int)fi);
                     if ((esPrimo((int)e)) && (e < fi) && (fi % e > 0))
                     {
                         correcto = true;
