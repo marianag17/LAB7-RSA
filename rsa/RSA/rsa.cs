@@ -40,7 +40,7 @@ namespace RSA
                 Console.WriteLine("Error");
             }
         }
-        public void Cifrar(string ruta1, string ruta2, string nombre)
+        public FileStream Cifrar(string ruta1, string ruta2, string nombre)
         {
             string llave = File.ReadAllText(ruta2);
             string[] split = llave.Split(',');
@@ -69,11 +69,12 @@ namespace RSA
                                 Escribir.Write(cif, 0, cif.Length);
                             }
                         }
+                        return Escribir;
                     }
                 }
             }
         }
-        public void Descifrar(string ruta1, string ruta2, string nombre)
+        public FileStream Descifrar(string ruta1, string ruta2, string nombre)
         {
             string llave = File.ReadAllText(ruta2);
             string[] split = llave.Split(',');
@@ -123,7 +124,8 @@ namespace RSA
                                 }
                             }
                         }
-                    }
+                        return Escribir;
+                    } 
                 }
             }
         }
