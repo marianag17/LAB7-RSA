@@ -1,21 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8VoGQpqxJ8hBBR5tIcQ10rcActxOpUoR+cyQoTkGndgsal0FmvwRnA3TydEiq5WlMM9aGBH0P3Rq92XN29AZfA==",
+  "dgSpecHash": "MnCjQdKpt7CtcM4ZTu7aNjWhMfABQ8ntwcSMpji84IseD1NhxtZl1hf5n02V88bvghL5M1H8Lj4EHJf3uK+A1A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\PRUEBA\\PRUEBA.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\luis\\.nuget\\packages\\ionic.zip\\1.9.1.8\\ionic.zip.1.9.1.8.nupkg.sha512"
-  ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Ionic.Zip 1.9.1.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
-      "libraryId": "Ionic.Zip",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "projectFilePath": "C:\\jasolis\\c#\\LAB7-RSA\\rsa\\PRUEBA\\PRUEBA.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
 }

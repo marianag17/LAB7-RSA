@@ -7,3 +7,12 @@ C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\RSA\obj\Debug\netst
 C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.dll
 C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.pdb
 C:\Users\luis\Desktop\URL\SEGUNDOCICLO2020\EDII\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.csproj.CoreCompileInputs.cache
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\bin\Debug\netstandard2.0\RSA.deps.json
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\bin\Debug\netstandard2.0\RSA.dll
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\bin\Debug\netstandard2.0\RSA.pdb
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.csprojAssemblyReference.cache
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.AssemblyInfoInputs.cache
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.AssemblyInfo.cs
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.csproj.CoreCompileInputs.cache
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.dll
+C:\jasolis\c#\LAB7-RSA\rsa\RSA\obj\Debug\netstandard2.0\RSA.pdb

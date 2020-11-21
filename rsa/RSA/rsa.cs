@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Numerics;
 using System.Collections.Generic;
-using Ionic.Zip;
 using System.Text;
 using System.IO;
 
@@ -12,7 +11,8 @@ namespace RSA
         int p, q;
         BigInteger n, fi, e, d, a, b;
         string cifrado;
-
+        public string public_key = "";
+        public string private_key = "";
         public void generarLlaves(int a, int b)
         {
             try
@@ -32,8 +32,15 @@ namespace RSA
                     }
                 }
                 d = Euclides(fi, e);
-                Console.WriteLine(Convert.ToString(e) + "," + Convert.ToString(n));
-                Console.WriteLine(Convert.ToString(d) + "," + Convert.ToString(n));
+
+                //Para pruebas en consola
+                //    Console.WriteLine(Convert.ToString(e) + "," + Convert.ToString(n));
+                //Console.WriteLine(Convert.ToString(d) + "," + Convert.ToString(n));
+
+
+
+                public_key = Convert.ToString(e) + "," + Convert.ToString(n);
+                private_key = Convert.ToString(d) + "," + Convert.ToString(n);
             }
             catch (Exception e)
             {

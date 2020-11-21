@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
-      "Ionic.Zip/1.9.1.8": {
-        "type": "package",
-        "compile": {
-          "lib/Ionic.Zip.dll": {}
-        },
-        "runtime": {
-          "lib/Ionic.Zip.dll": {}
-        }
-      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -38,19 +29,6 @@
     }
   },
   "libraries": {
-    "Ionic.Zip/1.9.1.8": {
-      "sha512": "E77NU0+mXFsiJG/CikkINVD/2ugIgjqRZf41pixpAArRzOUrn/2gCL4G2PBREvRVOy+wU8ZbG/UBLcH4Tkw1gg==",
-      "type": "package",
-      "path": "ionic.zip/1.9.1.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ionic.zip.1.9.1.8.nupkg.sha512",
-        "ionic.zip.nuspec",
-        "lib/Ionic.Zip.dll",
-        "nuget.bat"
-      ]
-    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -197,28 +175,23 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Ionic.Zip >= 1.9.1.8",
       "NETStandard.Library >= 2.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\luis\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Juan-Gtsk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\RSA.csproj",
+      "projectUniqueName": "C:\\jasolis\\c#\\LAB7-RSA\\rsa\\RSA\\RSA.csproj",
       "projectName": "RSA",
-      "projectPath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\RSA.csproj",
-      "packagesPath": "C:\\Users\\luis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\luis\\Desktop\\URL\\SEGUNDOCICLO2020\\EDII\\LAB7-RSA\\rsa\\RSA\\obj\\",
+      "projectPath": "C:\\jasolis\\c#\\LAB7-RSA\\rsa\\RSA\\RSA.csproj",
+      "packagesPath": "C:\\Users\\Juan-Gtsk\\.nuget\\packages\\",
+      "outputPath": "C:\\jasolis\\c#\\LAB7-RSA\\rsa\\RSA\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\luis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Juan-Gtsk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -242,10 +215,6 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
-          "Ionic.Zip": {
-            "target": "Package",
-            "version": "[1.9.1.8, )"
-          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
@@ -263,20 +232,8 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Package 'Ionic.Zip 1.9.1.8' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
-      "libraryId": "Ionic.Zip",
-      "targetGraphs": [
-        ".NETStandard,Version=v2.0"
-      ]
-    }
-  ]
+  }
 }
